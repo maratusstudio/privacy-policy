@@ -1,24 +1,3 @@
-# privacy-policy
-
-Uygulama Adı: Yönet ve Yüksel 
-
-Bu uygulama, kullanıcı deneyimini geliştirmek ve reklam göstermek amacıyla Google AdMob hizmetini kullanır.
-
-Toplanan Veriler
-
-Uygulama kendisi herhangi bir kişisel veri toplamaz. Ancak Google AdMob, reklamları kişiselleştirmek veya daha iyi reklam performansı sağlamak için cihaz bilgisi ve reklam kimliği gibi veriler toplayabilir.
-
-Üçüncü Taraf Hizmetleri
-
-Google AdMob
-AdMob’un gizlilik politikası:
-https://policies.google.com/technologies/ads
-
-Veri Güvenliği
-
-Uygulama kullanıcı verilerini kendi sunucularında saklamaz. Tüm veri işlemleri Google AdMob tarafından yapılır.
-
-İletişim
-
-Herhangi bir soru için geliştirici ile şu adres üzerinden iletişime geçebilirsiniz:
-E-posta: maratusstudio@gmail.com
+Yönet ve Yüksel ve Araba Avcısı uygulamaları, kullanıcı deneyimini geliştirmek ve reklam göstermek amacıyla Google AdMob hizmetini kullanmaktadır. Bu uygulamalar kendi başına herhangi bir kişisel veri toplamaz. Ancak Google AdMob, reklamların kişiselleştirilmesi ve performans analizinin yapılabilmesi için cihaz bilgisi, reklam kimliği, yaklaşık konum verisi ve uygulama etkileşim bilgileri gibi bazı verileri toplayabilir ve işleyebilir. Bu veriler uygulama geliştiricisi tarafından değil, Google tarafından yönetilmekte ve Google'ın gizlilik politikaları doğrultusunda kullanılmaktadır. Google’ın reklam teknolojileriyle ilgili gizlilik politikasına https://policies.google.com/technologies/ads
+ adresinden ulaşabilirsiniz. Uygulamalar kullanıcı verilerini kendi sunucularında saklamaz; tüm veri işlemleri Google tarafından güvenli şekilde gerçekleştirilir. Herhangi bir soru ya da talep için geliştiriciye maratusstudio@gmail.com
+ adresinden ulaşabilirsiniz.
